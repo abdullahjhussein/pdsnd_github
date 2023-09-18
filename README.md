@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 Git Project for ND DS
 
 ### Description
-Describe what your project is about and what it does
+This is a Description for Git Project for ND DS
 
 ### Files used
 Include the files used
